@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AnnaKalamkarian
+- 👀 I’m interested in epidemiology, causal inference, and how we can use linked administrative data to tackle complex social problems
+- 📚 I’m currently a PhD student undertaking research on multidimensional disadvantage
+- 🌱 Pronouns: she/her
+- ✨ Fun fact: I'm an avid museum-visiter, always planning where to visit next!
